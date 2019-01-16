@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+</head>
+<body style="margin: 10px">
+<div style="width: 640px;">
+  <p class="MsoNormal" style="font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-align:center;">In the Name of God</p>
+
+<p class="MsoNormal" style="font-size: 11px; font-family: Arial, Helvetica, sans-serif;">
+
+Dear Employer, <br/>  I am writing to apply for the <&-JTITLE-&> position advertised in the karyabee Job Portal. As requested, I am enclosing a completed resume.  The opportunity presented in this listing is very interesting, and I believe that my strong technical experience and education will make me a very competitive candidate for this position
+
+
+<&-COVER-&>
+
+
+<br /><br /><br />
+<strong>Contact information</strong><br/>
+<&-NAME-&> <br />
+<&-EMAIL-&> <br />
+<&-PHONE-&> <br />
+<&-ADDRESS-&> <br />
+Online Resume : <a href="<&-RLINK-&>" target="_blank">View</a> <br />
+
+Best regards,<br />
+</p>
+
+
+
+
+
+<p class="MsoNormal" style="font-size: 11px; font-family: Arial, Helvetica, sans-serif;"><font face="Arial, Helvetica, sans-serif">
+Thank you for using Karyabee Job Portals for announcing  your Job Vacancy.<br />
+Email: info@karyabee.com<br />
+website: www.karyabee.com<br/>
+
+</font></p>
+</div>
+</body>
+</html>
